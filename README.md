@@ -1,7 +1,8 @@
 # Information :memo:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyushbhatli&label=Views&color=blue&style=plastic" alt="pratyushbhatli" /> </p>
 
-- :computer: I recently worked as SWE Intern at Cisco Systems with Mobility Engineering Team
+- :computer: I'm ascience Student
+- 😎 AGE :- 17
 - 🌱 I’m currently learning PYTHON, JS, CSS
 - 👯 I’m looking to collaborate on my discord bots [DM me on discord](https://discord.com/users/634343118384398347) for collaborating
 - 😄 Pronouns: He/Him
