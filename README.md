@@ -9,7 +9,7 @@
 <br>
 
 ### Using:  
-[<img align="left" alt="Pycharm" width="26px" src="./img/terminal.svg" />](#)
+[<img align="left" alt="Pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />](#)
 
 <br>
 <br>
