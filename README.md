@@ -1,4 +1,4 @@
-## brain damaged as always  <br />
+## Got to high last night and made this  <br />
 
 ### Learning:  
 
@@ -16,3 +16,7 @@
 <br>
 
 ![Pratyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=PratyushBhatli&show_icons=true&theme=dracula)
+
+<br>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyushbhatli&label=Views&color=blue&style=plastic" alt="pratyushbhatli" /> </p>
