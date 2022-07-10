@@ -1,25 +1,19 @@
-# Information :memo:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyushbhatli&label=Views&color=blue&style=plastic" alt="pratyushbhatli" /> </p>
+## brain damaged as always  <br />
 
-- :computer: I'm ascience Student
-- 😎 AGE :- 17
-- 🌱 I’m currently learning PYTHON, JS, CSS
-- 👯 I’m looking to collaborate on my discord bots [DM me on discord](https://discord.com/users/634343118384398347) for collaborating
-- 😄 Pronouns: He/Him
+### Learning:  
 
-# Goals :dart:
+[<img align="left" alt="Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />](#)
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](#)
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](#)  
 
-- Python & JS developer
-- Bot developer
-- AI development
-- Data Base managment
+<br>
 
-<div align="center">
-    <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" align="center" title="Go to Source">
-      <img
-        src="https://activity-graph.herokuapp.com/graph?username=pratyushbhatli&theme=react-dark&bg_color=20232a&hide_border=true&area=true"
-        alt="Contributions Graph"
-        width="100%"
-      />
-    </a>
-  </div>
+### Using:  
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/devicon-pycharm-plain.svg" style="padding-right:10px;" />](#)
+[<img align="left" alt="Terminal" width="26px" src="./img/terminal.svg" />](#)
+
+<br>
+<br>
+<br>
+
+![Pratyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=PratyushBhatli&show_icons=true&theme=dracula)
