@@ -9,8 +9,7 @@
 <br>
 
 ### Using:  
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/devicon-pycharm-plain.svg" style="padding-right:10px;" />](#)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal.svg" />](#)
+[<img align="left" alt="Pycharm" width="26px" src="./img/terminal.svg" />](#)
 
 <br>
 <br>
