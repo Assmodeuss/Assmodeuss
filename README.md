@@ -15,7 +15,7 @@
 <br>
 <br>
 
-![Pratyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=PratyushBhatli&show_icons=true&theme=dracula)
+[![Pratyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=PratyushBhatli)](https://github.com/PratyushBhatli/github-readme-stats)
 
 <br>
 <br>
