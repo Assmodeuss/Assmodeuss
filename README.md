@@ -15,17 +15,7 @@
 <br>
 <br>
 
-<div align="center">
-
-<!--
-https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
--->
-<a href="https://github.com/pratyushbhatli/github-stats#gh-dark-mode-only">
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
-
-</div>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pratyushbhatli?cardType=github&theme=dark)](https://git.io/awesome-stats-card)
 
 <br>
 <br>
