@@ -1,4 +1,4 @@
-## Pratyush <br />
+## Asmodeus <br />
 
 ### Learning:  
 
@@ -15,8 +15,8 @@
 <br>
 <br>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/pratyushbhatli?cardType=github&theme=dark)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Assmodeuss?cardType=github&theme=dark)](https://git.io/awesome-stats-card)
 
 <br>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyushbhatli&label=Views&color=blue&style=plastic" alt="pratyushbhatli" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Assmodeuss&label=Views&color=blue&style=plastic" alt="Assmodeuss" /> </p>
