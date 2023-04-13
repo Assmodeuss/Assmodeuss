@@ -15,7 +15,8 @@
 <br>
 <br>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Assmodeuss?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats][![My Awesome Stats][![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Assmodeuss?cardType=github&theme=github-dark&preferLogin=false)]
+
 
 <br>
 <br>
