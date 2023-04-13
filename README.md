@@ -16,7 +16,7 @@
 <br>
 
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Assmodeuss?cardType=github&theme=github-dark&preferLogin=false)]
+![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Assmodeuss?cardType=github&theme=github-dark&preferLogin=false)
 
 
 
